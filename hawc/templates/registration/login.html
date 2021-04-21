@@ -1,0 +1,90 @@
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="david">
+    <meta name="generator" content="Hugo 0.82.0">
+    <title>Signin</title>
+    <script src="{% static 'js/jquery-3.6.0.min.js' %}"></script>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+    <meta name="theme-color" content="#7952b3">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+
+    <link href="{% static 'css/signin.css' %}" rel="stylesheet">
+</head>
+<body class="text-center">
+
+<main class="form-signin">
+    <form id="user-form" method="post" action="{% url 'login' %}">
+        {% csrf_token %}
+        <svg xmlns="http://www.w3.org/2000/svg" class="mb-4" alt="" width="72" height="57" fill="currentColor"
+             viewBox="0 0 16 16">
+            <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A4.979 4.979 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A4.985 4.985 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623zM4 7v4a4 4 0 0 0 3.5 3.97V7H4zm4.5 0v7.97A4 4 0 0 0 12 11V7H8.5zM12 6a3.989 3.989 0 0 0-1.334-2.982A3.983 3.983 0 0 0 8 2a3.983 3.983 0 0 0-2.667 1.018A3.989 3.989 0 0 0 4 6h8z"/>
+        </svg>
+        <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+
+        {% if form.errors %}
+            {% for field in form %}
+                {% for error in field.errors %}
+                    <div class="alert alert-danger" role="alert" >
+                        {{ error|escape }}
+                    </div>
+                {% endfor %}
+            {% endfor %}
+            {% for error in form.non_field_errors %}
+                <div class="alert alert-danger" role="alert">
+                    {{ error|escape }}
+                </div>
+            {% endfor %}
+        {% endif %}
+
+        {% if next %}
+            {% if user.is_authenticated %}
+                <div class="alert alert-warning" role="alert">Your account doesn't have access to this page. To proceed,
+                    please login with an account that has access.
+                </div>
+            {% else %}
+                <div class="alert alert-warning" role="alert">Please login to see this page.</div>
+            {% endif %}
+        {% endif %}
+        <div class="form-floating">
+            {{ form.username }}
+            <label for="{{ form.username.id_for_label }}">Username</label>
+        </div>
+        <div class="form-floating">
+            {{ form.password }}
+            <label for="{{ form.password.id_for_label }}">Password</label>
+        </div>
+        <div class="checkbox mb-3">
+            <label>{{ form.remember_me }} Remember me</label>
+        </div>
+        <input type="hidden" name="next" value="{{ next }}"/>
+        <button class="w-100 btn btn-lg btn-primary" type="submit" value="login">Sign in</button>
+        <p class="mt-5 mb-3 text-muted">&copy; HAWC collaboration</p>
+    </form>
+</main>
+</body>
+</html>

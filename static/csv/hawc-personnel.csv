@@ -1,0 +1,315 @@
+givenName,surName,uid,email,institution,country,type,validUntil,qualifiesAsAuthor
+Anushka Udara,Abeysekara,udara,udaraabeysekara@yahoo.com,University of Utah,USA,Post Doc,2017-10-01,True
+Gabriela,Aguilar,geaguila,geaguila@ucsc.edu,UC Santa Cruz,USA,Undergraduate,2016-09-09,False
+Jamie,Aguilar,jamie,jaguilar@astro.unam.mx,IA-UNAM,Mexico,Student (generic),2020-01-25,False
+Andrea,Albert,aalbert,amalbert@lanl.gov,LANL,USA,Research staff,None,True
+Ruben,Alfaro,ruben,ruben@fisica.unam.mx,IF-UNAM,Mexico,Research staff,2030-12-31,True
+Ester,Aliu,esteraliu,ealiu@icc.ub.edu,Barnard,USA,Associated Post Doc,2014-04-12,False
+Erick,Almaraz,ealmaraz2,erickalmaraz@gmail.com,IF-UNAM,Mexico,Associated Post Doc,2019-08-31,False
+Leopoldo,Altamirano Robles,altr,robles@inaoep.mx,INAOE,Mexico,Research staff,None,False
+César,Alvarez,calvarez,crabpulsar@hotmail.com,UNACH,Mexico,Research staff,2020-12-31,True
+Jose Roberto,Angeles Camacho,robert4475,robert4475@ciencias.unam.mx,IF-UNAM,Mexico,Masters student,2022-02-15,True
+Ali,Anwar,ali,ali.r.anwar@gmail.com,UMD,USA,Student (generic),2016-07-20,False
+Andres,Aramburo,aramburo,andresaramburo27@gmail.com,UMD,USA,Student (generic),2016-06-01,False
+Miguel,Araya,araya,miguel.araya@ucr.ac.cr,UCR,Costa Rica,Associated Researcher,2016-11-01,False
+Roberto,Arceo,rarceo,roberto.arceo@unach.mx,UNACH,Mexico,Research staff,2019-12-31,False
+Juan Carlos,Arteaga Velázquez,arteaga,juan.arteaga@umich.mx,UMSNH,Mexico,Research staff,2021-12-31,True
+Jan,Audehm,janaudehm,jan.audehm@rwth-aachen.de,IA-UNAM,Mexico,Masters student,2020-12-31,False
+Alejandro,Avila Aroche,aroche,arochex@live.com.mx,IA-UNAM,Mexico,Undergraduate,2013-06-30,False
+Daniel Omar,Avila Rojas,aird,daniel_avila5@ciencias.unam.mx,IF-UNAM,Mexico,PhD student,2023-12-31,True
+Hugo Alberto,Ayala Solares,hayalaso,hgayala@psu.edu,PSU,USA,Post Doc,2021-08-31,True
+Rishi,Babu,rishib,rbabu@mtu.edu,MTU,USA,PhD student,2022-09-01,False
+Ji Hyuk,Bae,jhbae,jihyuk.b@gmail.com,UMD,USA,Student (generic),2016-06-01,False
+Vardan,Baghmanyan,vardan,b.vardan.a@gmail.com,IFJ-PAN,Poland,Post Doc,2021-07-31,True
+Christopher,Bambic,cbambic,cbambic18@yahoo.com,UMD,USA,Student (generic),2017-11-01,False
+Ahron S.,Barber,barber,ahron.barber@gmail.com,University of Utah,USA,PhD student,2016-05-01,True
+Julio Daniel,Barcenas Moreno,julio,barcenas@ciencias.unam.mx,IA-UNAM,Mexico,Undergraduate,2020-12-31,False
+Brian M.,Baughman,bbaugh,bbaugh@umdgrb.umd.edu,UMD,USA,Post Doc,2016-01-01,False
+Josefa,Becerra Gonzalez,jbecerra,jbecerra@umd.edu,GSFC,USA,Post Doc,2016-01-01,True
+Andrea,Belfiore,mario,mario@piffio.org,UC Santa Cruz,USA,Associated Post Doc,2013-10-01,False
+Ernesto,Belmont-Moreno,belmont,belmont@fisica.unam.mx,IF-UNAM,Mexico,Research staff,None,True
+Ana Valeria,Beltrán Sánchez,valeria,valeriabs@ciencias.unam.mx,IA-UNAM,Mexico,Undergraduate,2023-03-31,False
+Segev,BenZvi,sybenzvi,sybenzvi@pas.rochester.edu,Rochester,USA,Research staff,None,True
+David,Berley,berley,berley@umd.edu,UMD,USA,Research staff,2019-02-01,True
+Abel,Bernal,abel,abel@astro.unam.mx,IA-UNAM,Mexico,Senior Technical Staff,2022-12-31,False
+Boris,Betancourt,boris,boris_betancourt@ciencias.unam.mx,IA-UNAM,Mexico,Undergraduate,2018-09-01,False
+Michael,Blank,mblank,michael.blank@stud-mail.uni-wuerzburg.de,Uni Würzburg,Germany,Student (generic),2018-10-31,False
+Cameron,Blochwitz,blochwit,blochwit@msu.edu,MSU,USA,Undergraduate,2021-12-31,False
+Mauro,Bonilla Rosales,mbonilla,mbonilla@igeofisica.unam.mx,IGeof-UNAM,Mexico,Technical / Engineering staff,2020-10-01,False
+Gregory,Bowers,gsbowers,gsbowers@ucsc.edu,UC Santa Cruz,USA,PhD student,2016-03-05,False
+Thomas,Bretz,tbretz,tbretz@physik.rwth-aachen.de,IA-UNAM,Mexico,Associated Researcher,2024-08-01,False
+Isabella,Brewer,ibrewer,bella832@gmail.com,UMD,USA,Student (generic),2015-09-01,False
+Chad,Brisbois,cbrisboi,chadb@umd.edu,UMD,USA,Post Doc,2019-09-01,True
+Danielle,Brown,dbrown,u1091342@utah.edu,University of Utah,USA,Undergraduate,2020-06-25,False
+Karen S.,Caballero Mora,ksalome,karen.scm@gmail.com,UNACH,Mexico,Research staff,2020-12-31,True
+Tomás,Capistrán Rojas,capistran,tcapistranc@gmail.com,IA-UNAM,Mexico,Post Doc,2021-12-01,True
+Alberto,Carramiñana,alberto,alberto@inaoep.mx,INAOE,Mexico,Research staff,None,True
+Maria Fernanda,Carranza Badillo,fercarranza,carranza.eme@gmail.com,ICN-UNAM,Mexico,Undergraduate,2018-10-31,False
+Maria Fernanda,Carreon Gonzalez,fernanda,mfcarreong@gmail.com,IA-UNAM,Mexico,Masters student,2022-12-31,False
+Sabrina,Casanova,scasanova,sabrina.casanova@ifj.edu.pl,IFJ-PAN,Poland,Research staff,2020-01-01,True
+Hernán,Castellanos Valdés,hernancv,hernancastellanosvaldes@gmail.com,UNACH,Mexico,Masters student,2019-12-31,False
+Maricela,Castillo García,mgarcia,mgarcia0079@hotmail.com,INAOE,Mexico,Secretary / Aministrator,None,False
+Paula,Chadwick,paulach,p.m.chadwick@durham.ac.uk,UPP,Mexico,Research staff,2019-12-31,False
+Jeffrey,Chaffin,jmchaffin,jmchaffi@ucsc.edu,UC Santa Cruz,USA,Undergraduate,2018-09-30,False
+Adam,Claassen,aclaassen,aclaassen@umdgrb.umd.edu,UMD,USA,Student (generic),2013-09-01,False
+Thomas,Coleman,tcoleman,ttcoleman62@gmail.com,UMD,USA,Undergraduate,2019-07-03,False
+Paulina,Colin Farias,paulina,pau.c06@gmail.com,IGeof-UNAM,Mexico,Undergraduate,2016-01-29,False
+Ruben,Conde,rconde,rconde@fcfm.buap.mx,FCFM-BUAP,Mexico,Technical / Engineering staff,2016-12-31,False
+Alfonso,Cortina,alcor,alcor_888@yahoo.com.mx,ICN-UNAM,Mexico,PhD student,2018-08-31,False
+Umberto,Cotti,ucotti,umberto.cotti@umich.mx,UMSNH,Mexico,Research staff,2021-12-31,True
+Jorge,Cotzomi,jcotzomi,jcotzomi@yahoo.com.mx,FCFM-BUAP,Mexico,Associated Researcher,2020-12-25,True
+Sara,Coutiño de León,sara,sara.cdl989@gmail.com,INAOE,Mexico,PhD student,2021-08-01,True
+Eleazar E.,De Rosas Sandoval,eleazare,eleazardrs@inaoep.mx,INAOE,Mexico,Technical / Engineering staff,None,False
+Eduardo,De la Fuente,edfuente,edfuente@gmail.com,UdG,Mexico,Research staff,2025-12-31,True
+Tyce,DeYoung,deyoung,deyoung@pa.msu.edu,MSU,USA,Research staff,2022-12-31,False
+Maya,Debski,mqd5709,mqd5709@psu.edu,PSU,USA,Undergraduate,2021-06-01,False
+Robert (Scott),Delay,rsdelay,rsdelay@gmail.com,UMD,USA,Technical / Engineering staff,None,False
+David,Delepine,delepine,delepine@fisica.ugto.mx,DCI-UDG,Mexico,Research staff,None,False
+Francisco Javier,Delgado Martinez,javier,f1122_@hotmail.com,IF-UNAM,Mexico,Undergraduate,2020-12-31,False
+Henrietta Amelia Wellington Chesterfield Penrose Rosenfeld Oersted,Descartes,hawcprod,asmith8@umd.edu,UMD,USA,Administrator,2025-11-01,False
+Niccolò,Di Lalla,dilalla,niccolo.dilalla@stanford.edu,Stanford,USA,Post Doc,2020-11-24,False
+Alfredo Santiago,Diaz,alf,alf@astroscu.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,None,False
+Lorenzo,Diaz,jldiaz,jldiaz@fcfm.buap.mx,FCFM-BUAP,Mexico,Research staff,2020-12-25,True
+Luciano,Diaz,ldg,luciano.diaz@nucleares.unam.mx,ICN-UNAM,Mexico,Technical / Engineering staff,None,False
+Raquel,Diaz Hernandez,raquel,dihera77@gmail.com,INAOE,Mexico,Technical / Engineering staff,None,True
+Simone,Dichiara,sdichiara,sdichiara@astro.unam.mx,IA-UNAM,Mexico,Post Doc,2020-08-01,False
+Lindsey,Diehl,lbd5148,lbd5148@psu.edu,PSU,USA,Undergraduate,2021-05-29,False
+Brenda,Dingus,dingus,dingus@lanl.gov,LANL,USA,Research staff,None,True
+Huong Giang,Do,giangdo,giang.do@rwth-aachen.de,IA-UNAM,Mexico,Masters student,2022-12-31,False
+Emmanuel,Domínguez Ramón,edr,ingenierodominguezramon@gmail.com,INAOE,Mexico,Masters student,2020-02-22,False
+Daniela,Dorner,dorner,dorner@astro.uni-wuerzburg.de,Uni Würzburg,Germany,Associated Researcher,None,False
+Michael,DuVernois,mduvernois,duvernois@icecube.wisc.edu,UW-Madison,USA,Research staff,2020-12-31,True
+Mora,Durocher,mdurocher,mdurocher@lanl.gov,LANL,USA,Post Doc,2022-07-31,True
+Juan Carlos,Díaz Vélez,juancarlos,juan.diazvelez@alumnos.udg.mx,UdG,Mexico,Associated Researcher,2022-12-31,True
+Dan,Edmunds,edmunds,edmunds@pa.msu.edu,MSU,USA,Technical / Engineering staff,2022-01-31,False
+Marco Cuauhtli,Elizalde Sanchez,mrc,mrc.es95@gmail.com,IA-UNAM,Mexico,Undergraduate,2016-09-01,False
+Robert,Ellsworth,ellsworth,ellswort@umdgrb.umd.edu,UMD,USA,Research staff,None,True
+Kristi,Engel,klengel,kristi.engel23@gmail.com,UMD,USA,PhD student,2020-04-01,True
+María Catalina,Espinoza Hernández,catalina,m.catalina@fisica.unam.mx,IF-UNAM,Mexico,Research staff,None,True
+Addy,Evans,addyevans,addyevans@tamu.edu,LANL,USA,PhD student,2022-02-01,False
+Jason,Fan,jasonfan,klfan@terpmail.umd.edu,UMD,USA,PhD student,2025-06-10,True
+Ke,Fang,kefang,kefang@physics.wisc.edu,UW-Madison,USA,Research staff,2021-09-01,True
+Andrea,Fernández,afernan,andrea.fs11@gmail.com,UAEH,Mexico,Student (generic),2018-12-31,False
+Mateo,Fernández Alonso,mateofa,mkf5479@psu.edu,PSU,USA,Post Doc,2022-05-01,True
+Alba,Fernández Barral,albaf,afernandez@ifae.es,UMD,USA,Student (generic),2016-09-01,False
+Brian,Fick,brian,fick@mtu.edu,MTU,USA,Research staff,None,True
+Nicole,Firestone,nmf5267,nmf5267@psu.edu,PSU,USA,Undergraduate,2021-06-01,False
+Henrike,Fleischhack,henrike,fleischhack@cua.edu,GSFC,USA,Post Doc,2020-02-29,True
+Ian,Florang,iflorang,iflorang@terpmail.umd.edu,UMD,USA,Undergraduate,2017-02-26,False
+Jorge Luis,Flores Nuñez,jlflores,luis.flores@cucei.udg.mx,UdG,Mexico,Associated Researcher,2019-12-31,False
+Nissim Illich,Fraija,nifraija,nifraija@astro.unam.mx,IA-UNAM,Mexico,Research staff,None,True
+Gabriela,Frias,gabi,gabriela.frias@nucleares.unam.mx,ICN-UNAM,Mexico,Technical / Engineering staff,None,False
+Neil,Gahart,neil,neilwgahart@gmail.com,UMD,USA,Student (generic),2014-06-30,False
+Edwin Antonio,Galván Gámez,agalvan,agalvan@astro.unam.mx,IA-UNAM,Mexico,Masters student,2020-12-31,False
+Diego,Garcia Aguilar,diegoga,diegotas@ciencias.unam.mx,IF-UNAM,Mexico,Masters student,2021-10-21,True
+Monserrat,Garcia Garcia,monsegarcia,monsegarciagar@gmail.com,ICN-UNAM,Mexico,Undergraduate,2018-10-31,False
+Jose Luis,Garcia-Luna,jlgalu,jlgalu@gmail.com,UdG,Mexico,Associated Researcher,2019-12-31,False
+Guillemo,Garcia-Torales,gtorales,garcia.torales@cucei.udg.mx,UdG,Mexico,Associated Researcher,2019-12-31,False
+José Andrés,García González,jagarcia,anteus79@gmail.com,ITESM,Mexico,Research staff (unaffiliated),None,True
+Angie,García Téllez,agt,angiegt3.14@gmail.com,INAOE,Mexico,Undergraduate,2019-10-17,False
+Fernando,Garfias,fergar,fergar@astro.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,None,True
+Gwenael,Giacinti,giacinti,giacinti@mpi-hd.mpg.de,MPIK,Germany,Post Doc,2021-06-30,True
+Hazal,Goksu,goksu,hazal.goksu@mpi-hd.mpg.de,MPIK,Germany,PhD student,2023-09-01,True
+Francisco,Gonzalez,pacochiva,paco26_chiva@hotmail.com,IA-UNAM,Mexico,Undergraduate,2017-09-01,False
+Francisco,González,francisco,fgonzalez@astro.unam.mx,IA-UNAM,Mexico,Masters student,2023-12-31,False
+Maria Magdalena,González,magda,magda@astro.unam.mx,IA-UNAM,Mexico,Research staff,None,True
+Jordan A.,Goodman,goodman,goodman@umdgrb.umd.edu,UMD,USA,Research staff,None,True
+Sarah,Greberman,smg6332,smg6332@psu.edu,PSU,USA,Undergraduate,2021-06-01,False
+Jonathan,Grothaus,jgrothaus,jonathan.grothaus@posteo.de,IA-UNAM,Mexico,Masters student,2020-01-31,False
+Aline,Guevara Villegas,aguevara,aline.guevara@correo.nucleares.unam.mx,ICN-UNAM,Mexico,Technical / Engineering staff,None,False
+Fan,Guo,fanguo,fanguo@lanl.gov,LANL,USA,Senior Technical Staff,None,False
+Carmelo,Guzman,carmelo,carmelo@astro.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,None,False
+Patricia,Hansen,phansen,hansen.patricia@gmail.com,ICN-UNAM,Mexico,Associated Researcher,2019-08-31,False
+J. Patrick,Harding,harding,jpharding@lanl.gov,LANL,USA,Research staff,None,True
+Erica,Heller,elh5393,elh5393@psu.edu,PSU,USA,Undergraduate,2021-06-01,False
+David,Hemsing,hemsing,hemsingd@lanl.gov,LANL,USA,Technical / Engineering staff,2022-01-01,False
+Eibar,Hernandez,eibar,eibar.hernandez@correo.buap.mx,FCFM-BUAP,Mexico,Technical / Engineering staff,2020-11-27,False
+Liliana,Hernandez,liliana,liliana@astro.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,None,False
+Sergio,Hernandez Cadena,sergio,skerzot@gmail.com,IF-UNAM,Mexico,PhD student,2023-12-31,True
+Ian,Herzog,igherzog,igherzog@mtu.edu,MTU,USA,Masters student,2022-05-08,False
+Susana,Higuera Parra,susana,susana_higuera@ciencias.unam.mx,IGeof-UNAM,Mexico,Undergraduate,2019-07-01,False
+Jim,Hinton,hinton,jim.hinton@mpi-hd.mpg.de,MPIK,Germany,Research staff,None,True
+Ronan,Hix,rhix,rhix@terpmail.umd.edu,UMD,USA,Undergraduate,2020-03-20,False
+Cheng,Ho,chengho,ho@lanl.gov,LANL,USA,Technical / Engineering staff,2022-10-01,False
+Cy,Hoffman,choffman,choffman9@comcast.net,LANL,USA,Associated Researcher,None,False
+Binita,Hona,bhona,bhona@mtu.edu,University of Utah,USA,PhD student,2019-12-31,True
+Dezhi,Huang,dezhih,dezhih@mtu.edu,MTU,USA,PhD student,2023-08-01,True
+Filiberto,Hueyotl-Zahuantitla,filihz,filihz@gmail.com,UNACH,Mexico,Research staff,2020-12-31,True
+Michelle,Hui,cmhui,c.m.hui@nasa.gov,MSFC,USA,Research staff (unaffiliated),None,True
+Leah,Hunt,lmh5964,lmh5964@psu.edu,PSU,USA,Undergraduate,2021-06-01,False
+Se Yeon,Hwang,syhwang,worldhsy1106@uos.ac.kr,UOS,South Korea,Undergraduate,2021-02-02,False
+Petra,Hüntemeyer,petra,petra@mtu.edu,MTU,USA,Research staff,None,True
+Arturo,Iriarte,airiarte,airiarte@astro.unam.mx,IA-UNAM,Mexico,Senior Technical Staff,None,True
+Dalila,Islas,dislas,dalila.islas@gmail.com,UAEH,Mexico,Student (generic),2018-12-31,False
+Ricardo,Jara,rjara,ricky.96@live.com.mx,IGeof-UNAM,Mexico,Undergraduate,2018-12-01,False
+Armelle,Jardin-Blicq,jardin,armelle.jardin-blicq@mpi-hd.mpg.de,MPIK,Germany,Associated Researcher,2021-12-31,True
+Hannah,Jhee,hannah,phynah15@gmail.com,UOS,South Korea,PhD student,2023-12-31,False
+Vikas,Joshi,vikasj78,vikas.joshi@fau.de,ECAP,Germany,Research staff (unaffiliated),2019-02-28,True
+Ana Lourdes,Juarez Garcia,lourdesjg,analulu1709@gmail.com,IF-UNAM,Mexico,Undergraduate,2017-01-01,False
+Sarah,Kaufmann,sarahka,skaufmann13@googlemail.com,UPP,Mexico,Research staff,2018-12-31,False
+Nicole,Kelley,nakelley,nakelley@ucsc.edu,UC Santa Cruz,USA,PhD student,2014-08-28,False
+Adnan,Khan,adnankhan,adnanz.89@gmail.com,UMD,USA,Undergraduate,2015-09-01,False
+David,Kieda,kieda,dave.kieda@utah.edu,University of Utah,USA,Research staff,2023-02-01,True
+Marc,Klinger,marc,marc.klinger@rwth-aachen.de,IA-UNAM,Mexico,Student (generic),2017-01-31,False
+Arun Babu,Kollamparambil,iamarunbabu,iamarunbabu@gmail.com,IGeof-UNAM,Mexico,Post Doc,2019-04-30,True
+Gerd J.,Kunde,kunde,gjkunde@gmail.com,LANL,USA,Research staff,None,True
+Samridha,Kunwar,kunwar,kunwar@mpi-hd.mpg.de,MPIK,Germany,Post Doc,2021-09-01,True
+Don,La Dieu,nega,nega@icecube.umd.edu,UMD,USA,Technical / Engineering staff,None,False
+Rosalia,Langarica,rosalia,rosalia@astroscu.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,2014-01-01,False
+Alejandro,Lara,alara,alara@geofisica.unam.mx,IGeof-UNAM,Mexico,Research staff,2024-06-01,True
+Robert,Lauer,rlauer,robert.j.lauer@gmail.com,UNM,USA,Research staff,2018-12-31,False
+Jason,Lee,jlee,jason.lee@uos.ac.kr,UOS,South Korea,Associated Researcher,None,True
+William,Lee,wlee,wlee@astro.unam.mx,IA-UNAM,Mexico,Research staff,None,True
+Dirk,Lennarz,dlennarz,dirk.lennarz@gatech.edu,GA Tech,USA,Associated Researcher,2021-10-30,True
+Hermes,León Vargas,hermes,hleonvar@fisica.unam.mx,IF-UNAM,Mexico,Research staff,2030-12-31,True
+Hui,Li,huili,hli@lanl.gov,LANL,USA,Senior Technical Staff,None,False
+Jim,Linnemann,linnemann,linneman@msu.edu,MSU,USA,Research staff,2025-01-01,True
+Yun Sheng,Liu,yunsheng,garrisonliu9013@gmail.com,UMD,USA,Undergraduate,2015-09-01,False
+Anna Lia,Longinotti,longinotti,alonginotti@astro.unam.mx,IA-UNAM,Mexico,Research staff,None,True
+Gabriela,Lopez-Ruiz,glopez,glopez.fisica@gmail.com,UAEH,Mexico,Student (generic),2017-12-31,False
+Gilgamesh,Luis-Raya,gilgamesh,gilgamesh@upp.edu.mx,UPP,Mexico,Research staff,2020-12-31,True
+Joe,Lundeen,lundeen,lundeenj@msu.edu,MSU,USA,PhD student,2020-12-31,True
+José Luis,López,jlopez,jlopezfisica@ciencias.unam.mx,IA-UNAM,Mexico,Undergraduate,2013-03-23,False
+Diego,López Camara,diego,diego@astro.unam.mx,IA-UNAM,Mexico,Research staff,None,False
+Kin Océlotl Cuauhtli,López Mendoza,kimlopez,koclopez@astro.unam.mx,IA-UNAM,Mexico,PhD student,2025-01-01,False
+Rubén,López-Coto,rlopez,rlopez@pd.infn.it,INFN Padova,Italy,Research staff,2019-12-31,True
+Brad,Madajczyk,madajczyk,bwmadajczyk@crimson.ua.edu,UA,USA,PhD student,2014-05-31,False
+Mario Alberto,Magaña Mendez,maralb,maralb_mm@upp.edu.mx,UPP,Mexico,Student (generic),2018-12-31,False
+Kelly,Malone,kam686,kmalone@lanl.gov,LANL,USA,Post Doc,2022-03-31,True
+Vincent,Marandon,marandon,marandon@mpi-hd.mpg.de,MPIK,Germany,Post Doc,2021-12-31,True
+Balam,Martinez,bmartinez,balamjaguar1000@hotmail.com,ICN-UNAM,Mexico,Undergraduate,2018-07-31,False
+Luis Artemio,Martinez,lamb,lamb@astro.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,2014-01-01,False
+Oscar,Martinez,omartin,omartin@fcfm.buap.mx,FCFM-BUAP,Mexico,Research staff,2020-11-27,True
+Israel,Martinez Castellanos,imc,imc@umd.edu,UMD,USA,PhD student,2020-04-01,True
+Marco,Martos,marco,marco@astroscu.unam.mx,IA-UNAM,Mexico,Associated Researcher,2014-01-01,False
+Humberto,Martínez Huerta,humbertom,humberto.martinezhuerta@udem.edu,UDEM,Mexico,Associated Researcher,2021-12-31,True
+Itzel Jessica,Martínez Marcelo,ijessica,ijessica@ciencias.unam.mx,IF-UNAM,Mexico,Undergraduate,2020-10-17,False
+Jesús,Martínez-Castro,macj,macj@cic.ipn.mx,CIC-IPN,Mexico,Research staff,None,True
+Frank,Maslowski,frankm,frank.maslowski@rwth-aachen.de,IA-UNAM,Mexico,Masters student,2022-12-31,False
+John,Matthews,johnm,johnm@unm.edu,UNM,USA,Research staff,2021-12-31,True
+Julie,McEnery,mcenery,julie.e.mcenery@nasa.gov,GSFC,USA,Research staff,None,True
+Eduardo,Mendoza Torres,mend,mend@inaoep.mx,INAOE,Mexico,Research staff,None,False
+Aldo Nicolás Alejandro,Miranda-Aguilar,njkolas,aldo.miranda.aguilar@gmail.com,CIC-IPN,Mexico,Masters student,2017-12-31,False
+Pedro,Miranda-Romagnoli,pmiranda,pa.miranda.r@gmail.com,UAEH,Mexico,Research staff,None,True
+Sonali,Mohan,sonalim,sonalim@mtu.edu,MTU,USA,Masters student,2021-09-01,False
+Myriam,Mondragón,myriam,myriam@fisica.unam.mx,IF-UNAM,Mexico,Associated Researcher,None,False
+Martín Giovanni,Montoya-Arenas,montoya,mmontoya126@ciencias.unam.mx,IF-UNAM,Mexico,Undergraduate,2023-02-17,False
+Alma,Morales,almamorales,almar.moralesr@gmail.com,FCFM-BUAP,Mexico,PhD student,2019-12-08,False
+Jorge Antonio,Morales Soto,jmorales,jmoralessg@gmail.com,UMSNH,Mexico,PhD student,2021-12-31,True
+Carllos-Alfredo,Morales-Castro,carlosalfredo,carlos01unidad01@outlook.com,CINVESTAV,Mexico,Student (generic),2021-08-21,False
+Eduardo,Moreno Barbosa,emoreno,emoreno@fcfm.buap.mx,FCFM-BUAP,Mexico,Research staff,2020-12-25,True
+Juan Carlos,Moreno Torres,juancmt27,juancmt27@hotmail.com,CIC-IPN,Mexico,Student (generic),2017-08-02,False
+Jacob,Morrison,jamorrison,jamorrison@crimson.ua.edu,UA,USA,Undergraduate,2013-05-31,False
+Igor,Moskalenko,imos,imos@stanford.edu,Stanford,USA,Associated Researcher,None,False
+Miguel,Mostafa,mostafa,miguel@psu.edu,PSU,USA,Research staff,2021-08-31,True
+Eduardo,Murrieta León,eml,emurrieta@nucleares.unam.mx,ICN-UNAM,Mexico,Technical / Engineering staff,None,False
+Janina,Nava,jnava,jnava@inaoep.mx,INAOE,Mexico,Technical / Engineering staff,None,False
+Amid,Nayerhoda,amid,amid.nayerhoda@ifj.edu.pl,IFJ-PAN,Poland,PhD student,2019-12-15,True
+Lukas,Nellen,lukas,lukas@nucleares.unam.mx,ICN-UNAM,Mexico,Research staff,None,True
+Michael,Newbold,mnewbold,historypie@yahoo.com,University of Utah,USA,PhD student,2016-05-01,True
+Tatiana,Niembro,tatiana,tatiana@igeofisica.unam.mx,IGeof-UNAM,Mexico,PhD student,2018-09-06,False
+Mehr Un,Nisa,mehr,nisamehr@msu.edu,MSU,USA,Post Doc,2022-01-01,True
+Roberto,Noriega-Papaqui,rnoriega,ropapaqui@gmail.com,UAEH,Mexico,Research staff,None,True
+Irving,Ocampo,iocampo,irving.gabriel@correo.buap.mx,FCFM-BUAP,Mexico,Student (generic),2020-12-25,False
+Alejandro,Olguin-Iglesias,aolguin,alejandroolguiniglesias@gmail.com,UAEH,Mexico,Post Doc,2020-12-31,False
+Laura,Olivera-Nieto,nieto,laura.olivera-nieto@mpi-hd.mpg.de,MPIK,Germany,PhD student,2022-09-30,True
+Nicola,Omodei,omodei,nicola.omodei@stanford.edu,Stanford,USA,Research staff,None,True
+Julián Federico,Orea Diaz,orea,oreadiazjulian@gmail.com,INAOE,Mexico,Masters student,2020-06-13,False
+Victor Hugo,Orosco,victorhugo,victorho@fisica.unam.mx,IF-UNAM,Mexico,Technical / Engineering staff,None,False
+Walter,Orozco,walter,orozmozwant.1106@gmail.com,CINVESTAV,Mexico,Student (generic),2020-10-30,False
+Mariana,Ortiz,marianao,omarianayolanda@gmail.com,IGeof-UNAM,Mexico,Student (generic),2021-04-01,False
+Daniel,Ortíz Prieto,daniel74op,daniel74op@ciencias.unam.mx,ICN-UNAM,Mexico,Undergraduate,2021-07-31,False
+Mabel Joselyn,Osorio Archila,mabel,jmosorio@astro.unam.mx,IA-UNAM,Mexico,Masters student,2025-12-31,False
+Aishni,Parab,aparab,aparab@ucsc.edu,UC Santa Cruz,USA,Undergraduate,2016-07-13,False
+Shivang,Patel,patels81,patels81@msu.edu,MSU,USA,Undergraduate,2021-12-31,False
+Barbara,Patricelli,bpatricelli,bpatricelli@astro.unam.mx,IA-UNAM,Mexico,Post Doc,2014-12-31,False
+Alison,Peisker,apeisker,peiskera@msu.edu,MSU,USA,PhD student,2023-12-31,True
+Epifanio,Ponce,eponce,eponce@fcfm.buap.mx,FCFM-BUAP,Mexico,Technical / Engineering staff,2020-12-25,False
+Troy,Porter,tporter,tporter@stanford.edu,Stanford,USA,Associated Researcher,None,False
+Alvaro Yobain,Pratts,pratts,yoba_m_t_a@ciencias.unam.mx,IF-UNAM,Mexico,Undergraduate,2020-12-31,False
+Jesús,Pérez  Ortiz,jperez,jesusortiz22@hotmail.com,FCFM-BUAP,Mexico,Masters student,2019-12-31,False
+Yunior,Pérez Araujo,yuniorp,yuniorpy@gmail.com,IA-UNAM,Mexico,PhD student,2022-12-31,True
+Eucario Gonzalo,Pérez Pérez,egperezp,egperezp@yahoo.com.mx,UPP,Mexico,Research staff,2020-12-31,True
+Ricardo-Yael,Pérez-Rincón,yaya,yayaperezrincon@gmail.com,UAEH,Mexico,Student (generic),2018-06-30,False
+Saul,Rafael,srafael,srafael@astro.unam.mx,IA-UNAM,Mexico,Undergraduate,2013-06-30,False
+Victor,Rangel,vicm25,vmrangelf@gmail.com,CIC-IPN,Mexico,Student (generic),2018-06-30,False
+Florian,Rehbein,florian,Florian.Rehbein@rwth-aachen.de,IA-UNAM,Mexico,Masters student,2021-12-31,False
+Zhixiang,Ren,zxren,zxren@unm.edu,UNM,USA,PhD student,2019-12-31,False
+Jorge,Reyes,jreyes,jreyes@inaoep.mx,INAOE,Mexico,Technical / Engineering staff,None,False
+Chang Dong,Rho,cdr397,no397@naver.com,UOS,South Korea,Research staff,None,True
+Luca,Riitano,lucariitano,luca48@comcast.net,UMD,USA,Undergraduate,2017-10-01,False
+Colas,Rivière,criviere,riviere@umdgrb.umd.edu,UMD,USA,Post Doc,2017-01-01,True
+Youn Jung,Roh,youn,youn.jung.roh@cern.ch,UOS,South Korea,Post Doc,2022-06-01,True
+Daniel,Rosa-González,danrosa,danrosa@inaoep.mx,INAOE,Mexico,Research staff,None,True
+Francisco,Ruiz,fruiz,fruiz@astroscu.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,None,False
+Edna,Ruiz-Velasco,edna,edna.ruiz@mpi-hd.mpg.de,MPIK,Germany,PhD student,2021-08-31,True
+Naomi,Russo,nrusso,nrusso@umdgrb.umd.edu,UMD,USA,Secretary / Aministrator,None,False
+Emilia,Ruvalcaba,eruval,emiliaruval@gmail.com,ICN-UNAM,Mexico,Undergraduate,2018-07-31,False
+James,Ryan,jryan,james.ryan@unh.edu,New Hampshire,USA,Research staff,None,True
+Rodrigo,Sacahui,jsacahui,jsacahui@astro.unam.mx,IA-UNAM,Mexico,Associated PhD Student,2013-06-30,False
+Humberto,Salazar,hsalazar,hsalazar@fcfm.buap.mx,FCFM-BUAP,Mexico,Research staff,2020-12-25,True
+Daniel Giovanny,Salazar Santiago,daniels,danni_salazar@ciencias.unam.mx,IF-UNAM,Mexico,Undergraduate,2023-12-31,False
+Daniel,Salazar-Gallegos,salaza82,salaza82@msu.edu,MSU,USA,PhD student,2024-12-31,False
+Francisco,Salesa Greus,sagreus,francisco.salesa@ifj.edu.pl,IFJ-PAN,Poland,Research staff,2022-02-28,True
+Adam,Sanchez,atsanche,atsanche@mtu.edu,MTU,USA,Undergraduate,2021-08-31,False
+Andres,Sandoval,asandoval,asandoval@fisica.unam.mx,IF-UNAM,Mexico,Research staff,None,True
+Manuel,Sandoval,msandoval,gorila_mec@hotmail.com,INAOE,Mexico,Technical / Engineering staff,None,False
+Jesús Ivan,Santamaria Najar,ivans,sannji86@gmail.com,IGeof-UNAM,Mexico,Masters student,2020-04-01,False
+Alberto,Santiago Hernandez,sant,byalbert@hotmail.com,IGeof-UNAM,Mexico,Masters student,2013-02-07,False
+Pablo M.,Saz Parkinson,pablo,pablo@scipp.ucsc.edu,UC Santa Cruz,USA,Associated Researcher,None,False
+Merlin,Schaufel,merlin,merlin.schaufel@rwth-aachen.de,IA-UNAM,Mexico,Student (generic),2020-12-31,False
+Michael,Schneider,michaels,mschnei4@umd.edu,UMD,USA,Senior Technical Staff,None,True
+Harm,Schoorlemmer,harmscho,harmscho@mpi-hd.mpg.de,MPIK,Germany,Post Doc,2021-12-31,True
+José,Serna-Franco,serna,j_serna@ciencias.unam.mx,IF-UNAM,Mexico,Masters student,2023-12-31,True
+Xuan-Min,Shao,shao,xshao@lanl.gov,LANL,USA,Research staff,None,False
+Pranav,Sharma,sharmap,sharma88@msu.edu,MSU,USA,Undergraduate,2020-12-31,False
+Anthony,Shoup,shoup,shoup.31@osu.edu,OSU-Lima,USA,Research staff,None,False
+Gus,Sinnis,gus,gus@lanl.gov,LANL,USA,Associated Researcher,None,True
+Andrew James,Smith,asmith,asmith8@umd.edu,UMD,USA,Research staff,2020-01-01,True
+Andrew W.,Smith,aws699,aw.smith@utah.edu,UMD,USA,Research staff,2018-10-01,False
+David,Smith,dsmith,dsmith8@ucsc.edu,UC Santa Cruz,USA,Associated Researcher,None,False
+Yun Cárcamo,Sohyoun,yunsoh,yunsoh@umd.edu,UMD,USA,PhD student,2027-04-01,False
+Luke,Sollitt,sollitt,sollittl2@citadel.edu,UMD,USA,Research staff,None,False
+Wayne,Springer,springer,wayne.springer@utah.edu,University of Utah,USA,Research staff,2023-02-01,True
+Pooja,Surajbali,pooja,pooja.surajbali@mpi-hd.mpg.de,MPIK,Germany,Post Doc,2021-05-31,True
+Nohemí,Sánchez Medel,nsm,sanchezn@inaoep.mx,INAOE,Mexico,Masters student,2020-02-22,False
+Ignacio,Taboada,itaboada,itaboada@gatech.edu,GA Tech,USA,Research staff,None,True
+Meghan,Tanner,met9,met9@psu.edu,PSU,USA,PhD student,2021-06-01,True
+Omar,Tibolla,omarti,omar.tibolla@gmail.com,UPP,Mexico,Research staff,2018-12-31,False
+Silvio,Tinoco,silvio,silvio@astroscu.unam.mx,IA-UNAM,Mexico,Technical / Engineering staff,2014-01-01,False
+Eduardo,Tirado Bueno,etb,etirado@inaoep.mx,INAOE,Mexico,Masters student,2024-01-04,False
+Patrick,Toale,toale,patoale@ua.edu,UA,USA,Research staff,None,False
+Kirsten,Tollefson,kirsten,tollefson@pa.msu.edu,MSU,USA,Research staff,2025-09-01,True
+Ibrahim,Torres,itorres,ibrahim.torres23@gmail.com,INAOE,Mexico,Research staff,None,True
+Ramiro,Torres Escobedo,rtorres,torresramiro350@gmail.com,SJTU,China,PhD student,2022-12-31,True
+Mariana,Torrres Arias,marianat,mariana.toar24@gmail.com,IA-UNAM,Mexico,Undergraduate,2022-12-31,False
+Armando,Trápala,trapala,trapala@fis.cinvestav.mx,CINVESTAV,Mexico,Student (generic),2021-03-31,False
+Rhiannon,Turner,rturner,rturner1@mtu.edu,MTU,USA,PhD student,2025-05-08,True
+Fernando,Ureña-Mena,furena,furena@inaoep.mx,INAOE,Mexico,Masters student,2025-05-23,True
+Enrique,Varela,enriquevarela,enrique.varela@correo.buap.mx,FCFM-BUAP,Mexico,Research staff,2020-10-31,False
+Andrés,Vega,aveflo77,aveflo77@ciencias.unam.mx,ICN-UNAM,Mexico,Undergraduate,2019-12-31,False
+Jose de Jesús,Velazquez Arreola,jjva,josevelar@inaoep.mx,INAOE,Mexico,PhD student,2020-02-22,False
+Diego Alejandro,Velazquez Montes,davm,davm92@ciencias.unam.mx,IA-UNAM,Mexico,Undergraduate,2016-09-01,False
+David,Venegas,venegas,david.venegas@nucleares.unam.mx,ICN-UNAM,Mexico,Technical / Engineering staff,None,False
+Giacomo,Vianello,giacomov,giacomov@stanford.edu,Stanford,USA,Associated Researcher,2017-07-15,False
+Julio César,Villagran Orihuela,jcvo,juliovillagran92@gmail.com,INAOE,Mexico,Undergraduate,2022-09-01,False
+Luis,Villaseñor,lvillasen,lvillasen@gmail.com,FCFM-BUAP,Mexico,Research staff,2020-12-25,True
+Xiaojie,Wang,wangxiaojie,wangxiaojie@ihep.ac.cn,SJTU,China,Post Doc,2020-12-31,False
+Zhen,Wang,zhen,zwang0723@163.com,SJTU,China,Post Doc,2020-05-01,False
+Ian James,Watson,iawatson,ian.james.watson@cern.ch,UOS,South Korea,Post Doc,2023-07-01,True
+Thomas,Weisgarber,tweisgarber,trw476@gmail.com,UW-Madison,USA,Research staff (unaffiliated),None,True
+Felix,Werner,fwerner,felix.werner@mpi-hd.mpg.de,MPIK,Germany,Research staff,2022-12-31,True
+Kara,Whitaker,kbw5490,knwhitaker99@gmail.com,PSU,USA,Undergraduate,2021-06-01,False
+Elijah,Willox,etabachn,etabachn@umd.edu,UMD,USA,PhD student,2018-06-29,True
+Joshua,Wood,joshwood,jwood.hawc@gmail.com,MSFC,USA,Research staff (unaffiliated),2022-06-01,True
+Reyna,Xoxocotzi-Aguilar,xoxoco,xoxo_reyna@yahoo.com.mx,UAEH,Mexico,Post Doc,2018-12-31,False
+Gaurang,Yodh,yodh,gyodh@uci.edu,UC Irvine,USA,Research staff,None,True
+Patrick,Younk,pwyounk,pwyounk@gmail.com,LANL,USA,Associated Researcher,None,False
+Arnulfo,Zepeda,zepeda,zepeda@fis.cinvestav.mx,CINVESTAV,Mexico,Research staff,None,True
+Haocheng,Zhang,haochengzhang,phitlip2007@gmail.com,LANL,USA,Associated Post Doc,2021-06-04,False
+Hongguang,Zhang,zhanghg,zhanghg@umd.edu,UMD,USA,Post Doc,2019-04-03,False
+Hao,Zhou,hao,hao_zhou@sjtu.edu.cn,SJTU,China,Research staff,None,True
+Ariel,Zuñiga Reyes,arzure89,arzure89@gmail.com,IA-UNAM,Mexico,Masters student,2018-08-31,False
+Luis,Zúñiga,lzun,lzun.morales@gmail.com,CIC-IPN,Mexico,Student (generic),2017-12-03,False
+Cederik León,de León,cederikleon,cederik.de.leon@umich.mx,UMSNH,Mexico,Research staff,2021-12-31,True
+Juan de Dios,Álvarez Romero,jdalvarez,science@juandedios.info,UMSNH,Mexico,PhD student,2020-12-31,True

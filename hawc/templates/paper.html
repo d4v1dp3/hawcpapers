@@ -1,0 +1,126 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hawc - Papers</title>
+
+    <script src="{% static 'js/jquery-3.6.0.min.js' %}"></script>
+
+    <link href="{% static 'css/bootstrap.min.css' %} " rel="stylesheet" type="text/css">
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+    <script src="{% static 'js/paper.js' %}"></script>
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="{% url 'home' %}">Hawc</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="{% url 'home' %}">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'paper' %}">Papers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'author' %}">Authors</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav mb-2 mb-lg-0">
+                    {% if user.is_authenticated %}
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                               data-bs-toggle="dropdown" aria-expanded="false">
+                                {{ user.get_username }}
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#">Account</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="{% url 'logout' %}">Logout</a></li>
+                            </ul>
+                        </li>
+                    {% else %}
+                        <li class="nav-item"><a class="nav-link" aria-current="page" href="{% url 'login' %}?next={{ request.path }}">Login</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<main class="container">
+    <table id="author-list" class="table">
+        <thead>
+        <tr>
+            <th scope="col">Paper number</th>
+            <th scope="col">Title (link to internal web page)</th>
+            <th scope="col">Journal</th>
+            <th scope="col">Sign-up Due Date</th>
+            <th scope="col">Status</th>
+            <th scope="col">Author List</th>
+        </tr>
+        </thead>
+        <tbody>
+            {% for paper in object_list %}
+                <tr>
+                    <td>{{ paper.number }}</td>
+                    <td>{{ paper.title }} </td>
+                    <td>{{ paper.journal }} </td>
+                    <td>{{ paper.signup_due }} </td>
+                    <td>{{ paper.user }} </td>
+                    <td> <button type="button" class="btn btn-primary" data-paper="{{ paper.id }}" data-bs-toggle="modal" data-bs-target="#modal_author_list">View</button> </td>
+                </tr>
+            {% empty %}
+                <tr>
+                    <td>0</td>
+                    <td>Empty papers</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</main>
+
+<div id="modal_author_list" class="modal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Author List</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Full name</th>
+              <th scope="col">Date</th>
+                <th scope="col">Status</th>
+            </tr>
+          </thead>
+          <tbody id="paper_modal_list">
+          </tbody>
+        </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" >PDF</button>
+          <button type="button" class="btn btn-secondary" >LATEX</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
